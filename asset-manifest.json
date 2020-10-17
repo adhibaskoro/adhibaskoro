@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adhibaskoro/static/css/main.5f361e03.chunk.css",
+    "main.js": "/adhibaskoro/static/js/main.19a614c1.chunk.js",
+    "main.js.map": "/adhibaskoro/static/js/main.19a614c1.chunk.js.map",
+    "runtime-main.js": "/adhibaskoro/static/js/runtime-main.5993ec95.js",
+    "runtime-main.js.map": "/adhibaskoro/static/js/runtime-main.5993ec95.js.map",
+    "static/js/2.558f5ea4.chunk.js": "/adhibaskoro/static/js/2.558f5ea4.chunk.js",
+    "static/js/2.558f5ea4.chunk.js.map": "/adhibaskoro/static/js/2.558f5ea4.chunk.js.map",
+    "index.html": "/adhibaskoro/index.html",
+    "precache-manifest.f6c5210ab13eec095e26d05b635da8bf.js": "/adhibaskoro/precache-manifest.f6c5210ab13eec095e26d05b635da8bf.js",
+    "service-worker.js": "/adhibaskoro/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/adhibaskoro/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.558f5ea4.chunk.js.LICENSE.txt": "/adhibaskoro/static/js/2.558f5ea4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/adhibaskoro/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5993ec95.js",
+    "static/js/2.558f5ea4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.19a614c1.chunk.js"
+  ]
+}
